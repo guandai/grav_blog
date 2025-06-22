@@ -1,11 +1,12 @@
 state: enabled
-email: dai@dai.twindai.cn
-fullname: 'admin administrator'
-title: zheng dai
+email: twindai@gmail.com
+language: en
 access:
   admin:
     login: true
     super: true
   site:
     login: true
+fullname: 'twin dai'
+title: mr
 hashed_password: $2y$12$68UdchXCTVGhnTcqnE72yudd8B0I4Lb10KocjwZyyDwMDIS4fAhlS

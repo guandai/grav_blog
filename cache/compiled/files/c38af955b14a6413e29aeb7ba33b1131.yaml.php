@@ -1,0 +1,24 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => '/Users/zhengdai/git/grav_blog/user/accounts/twindai.yaml',
+    'modified' => 1750570883,
+    'size' => 235,
+    'data' => [
+        'state' => 'enabled',
+        'email' => 'twindai@gmail.com',
+        'language' => 'en',
+        'access' => [
+            'admin' => [
+                'login' => true,
+                'super' => true
+            ],
+            'site' => [
+                'login' => true
+            ]
+        ],
+        'fullname' => 'twin dai',
+        'title' => 'mr',
+        'hashed_password' => '$2y$12$68UdchXCTVGhnTcqnE72yudd8B0I4Lb10KocjwZyyDwMDIS4fAhlS'
+    ]
+];
