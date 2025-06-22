@@ -1,6 +1,6 @@
 <?php
 // Optional: validate with a secret if set in GitHub
-$secret = 'YOUR_GITHUB_SECRET';
+$secret = 'grav_blog';
 $headers = getallheaders();
 $payload = file_get_contents('php://input');
 
